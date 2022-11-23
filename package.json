@@ -2,7 +2,7 @@
   "name": "test-firebase",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "node app.js",
   "type": "module",
   "dependencies": {
     "body-parser": "^1.20.1",
